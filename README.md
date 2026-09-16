@@ -18,4 +18,4 @@ HTML · CSS · JavaScript · Supabase · PostgreSQL · Git
 
 - Portfolio: (https://maximiliano-michasevich.netlify.app/)
 - LinkedIn: (https://www.linkedin.com/in/maximiliano-michasevich-73a7a7437/)
-- Email: maximiliano.michasevich@gmail.com
+- Email: maximilianomichasevich0@gmail.com
