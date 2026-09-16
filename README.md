@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Maximiliano
 
-<!--
-**maximichasevich/maximichasevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web developer from Montevideo, Uruguay. I build clean, fast websites and web apps, from the design to the database.
 
-Here are some ideas to get you started:
+Open to remote work, freelance or full-time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- **[Nodo](https://nodo-game.netlify.app)** — Gaming online store with cart, customer accounts, verified reviews and real-time order status.
+- **[TurnoPC](https://turnopc.netlify.app)** — Booking system with a color-coded availability calendar and a live admin panel.
+- **Stock control web app** — In progress.
+
+### Tech
+
+HTML · CSS · JavaScript · Supabase · PostgreSQL · Git
+
+### Contact
+
+- Portfolio: [TU-PORTFOLIO](https://maximiliano-michasevich.netlify.app/)
+- LinkedIn: [TU-LINKEDIN](https://www.linkedin.com/in/maximiliano-michasevich-73a7a7437/)
+- Email: maximiliano.michasevich@gmail.com
