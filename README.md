@@ -43,6 +43,5 @@ contacto@michasevich.com · [michasevich.com](https://michasevich.com)
 I'm a web designer and developer based in Montevideo, Uruguay. I build
 custom, fast, mobile-first websites for businesses, from design to launch
 and maintenance, using Next.js, React, TypeScript, Supabase and Netlify.
-I work with clients abroad in English and Spanish.
 
 Portfolio: [michasevich.com](https://michasevich.com) · Email: contacto@michasevich.com
